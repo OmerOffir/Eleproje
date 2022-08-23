@@ -1,0 +1,6 @@
+The Safari, which is located in Ramat Gan, hosts a tribe of Asian elephants. The tribe consists of 7 elephants: 5 females and 2 males, which live isolated from each other.  Nowadays, the elephants roam the yard aimlessly, the caretakers feed and bath them at regular hours. They can't make any independent decision by themselves (e.g. when to eat or take a shower).
+The elephant is a very social animal, living all its life in the tribe. In the wild the elephant forms a social bond with all the members of the tribe, they help each other to achieve goals and protect the weak one in the tribe. Each tribe has a leader elected by all the members of the tribe. If there is an elephant who does not like the leader of the tribe, he leaves the tribe.
+In captivity, social bonding is doubtful. elephants can't just leave the tribe if they want to, and it is difficult to know what are really the social ties are between the elephants.
+On top of that, the elephant is a very smart animal that needs stimulation every day, they need to be able to act independently to achieve goals (e.g getting food and shower). At present time, they get their food and showers easily so, they don't need to make any effort, and this may negatively affect their health and mood too.
+
+this repo shows the python code for the computer vision only 

@@ -3,4 +3,4 @@ The elephant is a very social animal, living all its life in the tribe. In the w
 In captivity, social bonding is doubtful. elephants can't just leave the tribe if they want to, and it is difficult to know what are really the social ties are between the elephants.
 On top of that, the elephant is a very smart animal that needs stimulation every day, they need to be able to act independently to achieve goals (e.g getting food and shower). At present time, they get their food and showers easily so, they don't need to make any effort, and this may negatively affect their health and mood too.
 
-this repo shows the python code for the computer vision only 
+this repo shows the python codes for the computer vision and machine learning.
